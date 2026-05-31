@@ -1,0 +1,19 @@
+# Dataset — too large for GitHub
+archive/
+chest_xray/
+*.jpeg
+*.jpg
+*.png
+
+# Model weights — too large
+*.pth
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Anaconda environment
+.venv/
+*.egg-info/
